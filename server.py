@@ -1,3 +1,4 @@
+import numpy as np
 import sqlite3
 from flask import (
     Flask,
