@@ -1,4 +1,0 @@
-wheel
-numpy
-keras
-tensorflow
